@@ -2023,6 +2023,9 @@ pre code {
   .col-md-12 {
     float: left;
   }
+  .col-md-13 {
+    width: 70%;
+  }
   .col-md-12 {
     width: 100%;
   }
