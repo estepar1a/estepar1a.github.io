@@ -1731,7 +1731,7 @@ pre code {
   width: 8.33333333%;
 }
 .col-xs-pull-13 {
-  right: 0%;
+  right: 100%;
 }
 .col-xs-pull-12 {
   right: 100%;
@@ -1773,7 +1773,7 @@ pre code {
   right: auto;
 }
 .col-xs-push-13 {
-  left: 70%;
+  left: 30%;
 }
 .col-xs-push-12 {
   left: 100%;
@@ -1912,7 +1912,7 @@ pre code {
     width: 8.33333333%;
   }
   .col-sm-pull-13 {
-    right: 0%;
+    right: 100%;
   }
   .col-sm-pull-12 {
     right: 100%;
@@ -1954,7 +1954,7 @@ pre code {
     right: auto;
   }
   .col-sm-push-13 {
-    left: 70%;
+    left: 30%;
   }
   .col-sm-push-12 {
     left: 100%;
@@ -2094,7 +2094,7 @@ pre code {
     width: 8.33333333%;
   }
   .col-md-pull-13 {
-    right: 0%;
+    right: 100%;
   }
   .col-md-pull-12 {
     right: 100%;
@@ -2136,7 +2136,7 @@ pre code {
     right: auto;
   }
   .col-md-push-13 {
-    left: 70%;
+    left: 30%;
   }
   .col-md-push-12 {
     left: 100%;
@@ -2276,7 +2276,7 @@ pre code {
     width: 8.33333333%;
   }
   .col-lg-pull-13 {
-    right: 0%;
+    right: 100%;
   }
   .col-lg-pull-12 {
     right: 100%;
