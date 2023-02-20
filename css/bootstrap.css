@@ -1731,7 +1731,7 @@ pre code {
   width: 8.33333333%;
 }
 .col-xs-pull-13 {
-  right: 70%;
+  right: 0%;
 }
 .col-xs-pull-12 {
   right: 100%;
@@ -1912,7 +1912,7 @@ pre code {
     width: 8.33333333%;
   }
   .col-sm-pull-13 {
-    right: 70%;
+    right: 0%;
   }
   .col-sm-pull-12 {
     right: 100%;
@@ -2094,7 +2094,7 @@ pre code {
     width: 8.33333333%;
   }
   .col-md-pull-13 {
-    right: 70%;
+    right: 0%;
   }
   .col-md-pull-12 {
     right: 100%;
@@ -2276,7 +2276,7 @@ pre code {
     width: 8.33333333%;
   }
   .col-lg-pull-13 {
-    right: 70%;
+    right: 0%;
   }
   .col-lg-pull-12 {
     right: 100%;
