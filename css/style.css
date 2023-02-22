@@ -44,12 +44,12 @@ section {
 }
 a,
 a:link {
-  color: #3d0f55;
+  color: #666;
 }
 a:hover,
 a:focus,
 a:visited {
-  color: #666;
+  color: #4624d1;
   text-decoration: none;
 }
 .vcenter {
