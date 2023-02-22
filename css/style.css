@@ -42,6 +42,9 @@ section {
   padding-right: 0;
   padding-left: 0;
 }
+.links a:link {
+  color: #381484;
+}
 a,
 a:link {
   color: #666;
@@ -218,9 +221,6 @@ a:visited {
   margin: 10px auto;
   text-align: center;
   color: #222;
-}
-.links a:link {
-  color: #381484;
 }
 .nav-item a:link,
 .nav-item a:hover,
