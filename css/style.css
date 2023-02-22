@@ -43,7 +43,7 @@ section {
   padding-left: 0;
 }
 a.links {
-  color: #bd1a25;
+  color: #bd1a25 !important;
 }
 a,
 a:link {
