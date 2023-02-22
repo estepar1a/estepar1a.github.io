@@ -42,14 +42,17 @@ section {
   padding-right: 0;
   padding-left: 0;
 }
+.links a:link {
+  color: #119292;
+}
 a,
 a:link {
-  color: #4624d1;
+  color: #666;
 }
 a:hover,
 a:focus,
 a:visited {
-  color: #4624d1;
+  color: #666;
   text-decoration: none;
 }
 .vcenter {
