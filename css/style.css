@@ -186,10 +186,6 @@ a:visited {
   position: relative;
 }
 
-.links {
-  color: #381484;
-}
-
 .item-anchor {
   color: #fff;
   font-size: 30px;
@@ -222,6 +218,9 @@ a:visited {
   margin: 10px auto;
   text-align: center;
   color: #222;
+}
+.links a:link {
+  color: #381484;
 }
 .nav-item a:link,
 .nav-item a:hover,
