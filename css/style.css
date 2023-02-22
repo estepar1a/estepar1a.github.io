@@ -42,7 +42,7 @@ section {
   padding-right: 0;
   padding-left: 0;
 }
-.links a:link {
+a.links {
   color: #bd1a25;
 }
 a,
