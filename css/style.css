@@ -524,3 +524,6 @@ a:visited {
   height: 100vh !important;
   object-fit: cover;
 }
+.links {
+  color: rgb(20, 132, 102);
+}
