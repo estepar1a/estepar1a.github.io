@@ -488,9 +488,9 @@ a:visited {
   width: 100%;
   object-fit: contain;
 }
-.square-thumbs li {
+/*.square-thumbs li {
   height: 285px;
-}
+}*/
 .lightbox-grid li {
   padding: 8px;
   float: left;
