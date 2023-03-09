@@ -486,7 +486,8 @@ a:visited {
 .background-image {
   height: 100%;
   width: 100%;
-  object-fit: contain;
+  object-fit: 
+  n;
 }
 /*.square-thumbs li {
   height: 285px;
