@@ -532,10 +532,10 @@ a:visited {
   position: absolute;
   top: 35%;
   bottom: 0;
-  left: 0;
+  left: 0.5%;
   right: 0;
   height: 30%;
-  width: 95%;
+  width: 98%;
   opacity: 0;
   transition: 0.5s ease;
   background-color: #1b1b1e;
