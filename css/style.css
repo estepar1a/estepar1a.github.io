@@ -530,12 +530,12 @@ a:visited {
 
 .overlay {
   position: absolute;
-  top: 50%;
+  top: 35%;
   bottom: 0;
   left: 0;
   right: 0;
   height: 30%;
-  width: 100%;
+  width: 95%;
   opacity: 0;
   transition: 0.5s ease;
   background-color: #1b1b1e;
@@ -547,7 +547,7 @@ a:visited {
 
 .text {
   color: #eaebed;
-  font-size: 18px;
+  font-size: 19px;
   position: absolute;
   top: 50%;
   left: 50%;
