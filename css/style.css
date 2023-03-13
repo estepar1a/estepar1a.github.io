@@ -530,7 +530,7 @@ a:visited {
 
 .overlay {
   position: absolute;
-  top: 0;
+  top: 50%;
   bottom: 0;
   left: 0;
   right: 0;
@@ -538,16 +538,16 @@ a:visited {
   width: 100%;
   opacity: 0;
   transition: 0.5s ease;
-  background-color: #c6c013;
+  background-color: #1b1b1e;
 }
 
 .container:hover .overlay {
-  opacity: 0.5;
+  opacity: 1;
 }
 
 .text {
-  color: #2b2d42;
-  font-size: 20px;
+  color: #eaebed;
+  font-size: 18px;
   position: absolute;
   top: 50%;
   left: 50%;
